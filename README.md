@@ -1,1 +1,1 @@
-# Szamgep-Halozatok
+# Szamgep-Grafika
